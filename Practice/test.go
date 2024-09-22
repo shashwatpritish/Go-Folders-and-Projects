@@ -1,0 +1,1 @@
+// Run prog18.go to see the result in this file
